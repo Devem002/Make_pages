@@ -1,0 +1,3 @@
+/home/devem/Escritorio/Make_Pages/cmake-build-debug/CMakeFiles/Make_Pages.dir
+/home/devem/Escritorio/Make_Pages/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/devem/Escritorio/Make_Pages/cmake-build-debug/CMakeFiles/rebuild_cache.dir
